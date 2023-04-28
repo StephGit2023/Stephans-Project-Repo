@@ -1,2 +1,3 @@
 # Stephans-Project-Repo
-Personal Project Repository
+
+Personal Project Description
